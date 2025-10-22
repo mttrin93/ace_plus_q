@@ -1,0 +1,379 @@
+auxdata:
+  _int: {}
+  _double: {}
+  _double_arr:
+    basis_r1_0: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]
+    basis_r1_1: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]
+    basis_r1_10: [1.9584756914482901, 1.0881277609112141, -0.81307221585993794]
+    basis_r1_11: [-2.0946110234338855, -1.9323759917503873, -1.2438396214180063]
+    basis_r1_12: [-0.25729834558744807, -0.50774190784225737, 0.075025131698471831]
+    basis_r1_13: [-0.13977452398987597, -0.25363308495104858, 0.14804309896266502]
+    basis_r1_14: [-2.0946110234338842, -4.3709680044946158, -4.8227174304671356]
+    basis_r1_15: [4.1714682972709483, 1.2257513586530204, -1.1431361731256577]
+    basis_r1_2: [0.71730412916849251, 0.36494016250859462, -0.86167337911390329]
+    basis_r1_3: [-0.25729834558745429, -0.84095545014376383, -2.0580747593477406]
+    basis_r1_4: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]
+    basis_r1_5: [0.62774956622731803, 1.3050070055054279, 1.8981580044079298]
+    basis_r1_6: [-0.62027968984358572, -0.63546560705267197, 0.54447805617575551]
+    basis_r1_7: [-0.13977452398987558, -0.24550141003072037, -0.62179508115588011]
+    basis_r1_8: [0.71730412916848485, 1.3334562383919479, -0.3349442119829823]
+    basis_r1_9: [-0.62027968984357995, -0.63000856362531865, -0.63621502529669238]
+    basis_rn_0: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 0.33342146162482206, 0.36725713536814053, -0.66161196737398831, 0.95043941164200341, 0.44509832610390021, -1.5465047526081925, -0.91765225807970485, -1.8037652467357581, -3.6522151647470276]
+    basis_rn_1: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, -0.15251372072235958, 0.093071938149199493, 0.2663994535775589, -0.10137216773971154, -0.07895209797295337, 0.062021463803826192, 0.037820231222414812, 0.056270650264335323, -0.10940385415344658, -0.070708939522661052, -0.078977121331848879, 0.020573173132665826, -0.061272781192066819, -0.078633919916336892, -0.043116111374018495, -0.09693324330387329, -0.1287486801692671, -0.10487000522870227]
+    basis_rn_2: [0.083563930357938715, 0.19181190023731937, -0.018462376760607788, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, 2.976510011349653, 2.3083910320498306, -0.17901700670110179, 1.6195756427370112, 0.38836746526971794, -0.010054313193653637, -0.037342703226182994, -0.035876123116746962, -0.034981641171744945, -0.26315268707161993, -0.26030960576192569, -0.27035826447940564, -0.13788487674343591, -0.095545074252403828, 0.10198696233594919, 0.66654774895867552, 0.99177266467739555, -0.73123689347543641, -0.35532755760650159, -0.087590881555140124, -1.8428726353565561, -1.2891958583434568, -0.028162466977759225, -2.9646771522801032]
+    basis_rn_3: [-0.021827724184992504, -0.13205285979750672, 0.4813339424955233, 1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05, -0.743220871583122, 0.48836809620603622, -1.0300757347039371, -1.6583296132867098, -0.80510566102792058, 0.29813241684001801, -0.098039086422713209, -0.086575542539270273, 0.035526002114960271, -0.30854805195333573, -0.18358890141862347, -0.10014704332055138, -0.00088513070962086774, -0.051591518675584036, 0.047931055405949767, 0.18231492993305523, -0.74659405447391347, -1.0304670495644015, -0.6865864449822584, -0.13372290751805815, 1.3467703320198456, 0.75823567892912014, 0.44993003112837893, -0.499349526917308]
+    chg_int: [1.0000100000000001, 1.0000100000000001]
+    crad_0: [1]
+    crad_1: [1]
+    crad_2: [3.1559564954714054]
+    crad_3: [1.7607315761233195]
+    crad_4: [-0.25396037026100826]
+    crad_5: [1.052315215419922]
+    crad_6: [1.0287469817847634]
+    crad_7: [1.3716601614977917]
+    crad_8: [-0.95669363398073748]
+    crad_9: [0.46506998551110051]
+  _string: {}
+global:
+  DeltaSplineBins: 0.001
+species:
+  - speciesblock: Al
+    ndensityi: 3
+    npoti: FinnisSinclairShiftedScaled
+    parameters: [1, 1, 1, 0.5, 1, 1]
+    rho_core_cut: 100000
+    drho_core_cut: 250
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Al Al, nr: [1], nl: [0], c: [1.0000100000000001, 1.0000100000000001, 1.0000000000000001e-05]}
+      - {type: Al Al Al, nr: [1, 1], nl: [0, 0], c: [-0.84095545014376383, -2.0580747593477406, 1.0000000000000001e-05]}
+  - speciesblock: Al Au
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Al Au, nr: [1], nl: [0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+      - {type: Al Al Au, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 0.62774956622731803]}
+      - {type: Al Au Au, nr: [1, 1], nl: [0, 0], c: [-0.24550141003072037, -0.62179508115588011, 0.71730412916848485]}
+  - speciesblock: Al Au Mg
+    nbody:
+      - {type: Al Au Mg, nr: [1, 1], nl: [0, 0], c: [1.3334562383919479, -0.3349442119829823, -0.62027968984357995]}
+  - speciesblock: Al Au O
+    nbody:
+      - {type: Al Au O, nr: [1, 1], nl: [0, 0], c: [-0.63000856362531865, -0.63621502529669238, 1.9584756914482901]}
+  - speciesblock: Al Mg
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[3.1559564954714054]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Al Mg, nr: [1], nl: [0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 0.71730412916849251]}
+      - {type: Al Al Mg, nr: [1, 1], nl: [0, 0], c: [1.3050070055054279, 1.8981580044079298, -0.62027968984358572]}
+      - {type: Al Mg Mg, nr: [1, 1], nl: [0, 0], c: [1.0881277609112141, -0.81307221585993794, -2.0946110234338855]}
+  - speciesblock: Al Mg O
+    nbody:
+      - {type: Al Mg O, nr: [1, 1], nl: [0, 0], c: [-1.9323759917503873, -1.2438396214180063, -0.25729834558744807]}
+  - speciesblock: Al O
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1.7607315761233195]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Al O, nr: [1], nl: [0], c: [0.36494016250859462, -0.86167337911390329, -0.25729834558745429]}
+      - {type: Al Al O, nr: [1, 1], nl: [0, 0], c: [-0.63546560705267197, 0.54447805617575551, -0.13977452398987558]}
+      - {type: Al O O, nr: [1, 1], nl: [0, 0], c: [-0.50774190784225737, 0.075025131698471831, -0.13977452398987597]}
+  - speciesblock: Au
+    ndensityi: 3
+    npoti: FinnisSinclairShiftedScaled
+    parameters: [1, 1, 1, 0.5, 1, 1]
+    rho_core_cut: 100000
+    drho_core_cut: 250
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[-0.25396037026100826]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Au Au, nr: [1], nl: [0], c: [-4.3709680044946158, -4.8227174304671356, 4.1714682972709483]}
+      - {type: Au Au Au, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+  - speciesblock: Au Al
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Au Al, nr: [1], nl: [0], c: [-0.25363308495104858, 0.14804309896266502, -2.0946110234338842]}
+      - {type: Au Al Al, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+      - {type: Au Al Au, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+  - speciesblock: Au Al Mg
+    nbody:
+      - {type: Au Al Mg, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+  - speciesblock: Au Al O
+    nbody:
+      - {type: Au Al O, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+  - speciesblock: Au Mg
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1.052315215419922]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Au Mg, nr: [1], nl: [0], c: [1.2257513586530204, -1.1431361731256577, 1.0000000000000001e-05]}
+      - {type: Au Au Mg, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 0.33342146162482206]}
+      - {type: Au Mg Mg, nr: [1, 1], nl: [0, 0], c: [0.44509832610390021, -1.5465047526081925, -0.91765225807970485]}
+  - speciesblock: Au Mg O
+    nbody:
+      - {type: Au Mg O, nr: [1, 1], nl: [0, 0], c: [-1.8037652467357581, -3.6522151647470276, 1.0000000000000001e-05]}
+  - speciesblock: Au O
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1.0287469817847634]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Au O, nr: [1], nl: [0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+      - {type: Au Au O, nr: [1, 1], nl: [0, 0], c: [0.36725713536814053, -0.66161196737398831, 0.95043941164200341]}
+      - {type: Au O O, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+  - speciesblock: Mg
+    ndensityi: 3
+    npoti: FinnisSinclairShiftedScaled
+    parameters: [1, 1, 1, 0.5, 1, 1]
+    rho_core_cut: 100000
+    drho_core_cut: 250
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1.3716601614977917]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Mg Mg, nr: [1], nl: [0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, -0.15251372072235958]}
+      - {type: Mg Mg Mg, nr: [1, 1], nl: [0, 0], c: [2.3083910320498306, -0.17901700670110179, 1.6195756427370112]}
+  - speciesblock: Mg Al
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[3.1559564954714054]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Mg Al, nr: [1], nl: [0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+      - {type: Mg Al Al, nr: [1, 1], nl: [0, 0], c: [-0.07895209797295337, 0.062021463803826192, 0.037820231222414812]}
+      - {type: Mg Al Mg, nr: [1, 1], nl: [0, 0], c: [-0.078977121331848879, 0.020573173132665826, -0.061272781192066819]}
+  - speciesblock: Mg Al Au
+    nbody:
+      - {type: Mg Al Au, nr: [1, 1], nl: [0, 0], c: [0.056270650264335323, -0.10940385415344658, -0.070708939522661052]}
+  - speciesblock: Mg Al O
+    nbody:
+      - {type: Mg Al O, nr: [1, 1], nl: [0, 0], c: [-0.078633919916336892, -0.043116111374018495, -0.09693324330387329]}
+  - speciesblock: Mg Au
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1.052315215419922]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Mg Au, nr: [1], nl: [0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 1.0000000000000001e-05]}
+      - {type: Mg Au Au, nr: [1, 1], nl: [0, 0], c: [-0.1287486801692671, -0.10487000522870227, 0.083563930357938715]}
+      - {type: Mg Au Mg, nr: [1, 1], nl: [0, 0], c: [0.19181190023731937, -0.018462376760607788, 1.0000000000000001e-05]}
+  - speciesblock: Mg Au O
+    nbody:
+      - {type: Mg Au O, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, 2.976510011349653]}
+  - speciesblock: Mg O
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[-0.95669363398073748]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: Mg O, nr: [1], nl: [0], c: [0.093071938149199493, 0.2663994535775589, -0.10137216773971154]}
+      - {type: Mg Mg O, nr: [1, 1], nl: [0, 0], c: [0.38836746526971794, -0.010054313193653637, -0.037342703226182994]}
+      - {type: Mg O O, nr: [1, 1], nl: [0, 0], c: [-0.035876123116746962, -0.034981641171744945, -0.26315268707161993]}
+  - speciesblock: O
+    ndensityi: 3
+    npoti: FinnisSinclairShiftedScaled
+    parameters: [1, 1, 1, 0.5, 1, 1]
+    rho_core_cut: 100000
+    drho_core_cut: 250
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[0.46506998551110051]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: O O, nr: [1], nl: [0], c: [-0.087590881555140124, -1.8428726353565561, -1.2891958583434568]}
+      - {type: O O O, nr: [1, 1], nl: [0, 0], c: [-0.13372290751805815, 1.3467703320198456, 0.75823567892912014]}
+  - speciesblock: O Al
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1.7607315761233195]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: O Al, nr: [1], nl: [0], c: [-0.26030960576192569, -0.27035826447940564, -0.13788487674343591]}
+      - {type: O Al Al, nr: [1, 1], nl: [0, 0], c: [-0.028162466977759225, -2.9646771522801032, -0.021827724184992504]}
+      - {type: O Al O, nr: [1, 1], nl: [0, 0], c: [0.48836809620603622, -1.0300757347039371, -1.6583296132867098]}
+  - speciesblock: O Al Au
+    nbody:
+      - {type: O Al Au, nr: [1, 1], nl: [0, 0], c: [-0.13205285979750672, 0.4813339424955233, 1.0000000000000001e-05]}
+  - speciesblock: O Al Mg
+    nbody:
+      - {type: O Al Mg, nr: [1, 1], nl: [0, 0], c: [1.0000000000000001e-05, 1.0000000000000001e-05, -0.743220871583122]}
+  - speciesblock: O Au
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[1.0287469817847634]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: O Au, nr: [1], nl: [0], c: [-0.095545074252403828, 0.10198696233594919, 0.66654774895867552]}
+      - {type: O Au Au, nr: [1, 1], nl: [0, 0], c: [-0.80510566102792058, 0.29813241684001801, -0.098039086422713209]}
+      - {type: O Au O, nr: [1, 1], nl: [0, 0], c: [-0.18358890141862347, -0.10014704332055138, -0.00088513070962086774]}
+  - speciesblock: O Au Mg
+    nbody:
+      - {type: O Au Mg, nr: [1, 1], nl: [0, 0], c: [-0.086575542539270273, 0.035526002114960271, -0.30854805195333573]}
+  - speciesblock: O Mg
+    nradmaxi: 1
+    lmaxi: 0
+    rcutij: 4
+    dcutij: 0.01
+    NameOfCutoffFunctionij: cos
+    r_in: 0
+    delta_in: 0
+    inner_cutoff_type: distance
+    nradbaseij: 1
+    radbase: SBessel
+    radparameters: [5.25]
+    radcoefficients: [[[-0.95669363398073748]]]
+    core-repulsion: [0, 0]
+    nbody:
+      - {type: O Mg, nr: [1], nl: [0], c: [0.99177266467739555, -0.73123689347543641, -0.35532755760650159]}
+      - {type: O Mg Mg, nr: [1, 1], nl: [0, 0], c: [-0.051591518675584036, 0.047931055405949767, 0.18231492993305523]}
+      - {type: O Mg O, nr: [1, 1], nl: [0, 0], c: [-0.74659405447391347, -1.0304670495644015, -0.6865864449822584]}

@@ -1,0 +1,2 @@
+[console_scripts]
+ace_plus_q = ace_plus_q.bin.run_ace_plus_q:main

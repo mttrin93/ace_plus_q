@@ -1,0 +1,6 @@
+scipy
+tensorflow
+numpy
+pandas
+ase
+ruamel.yaml

@@ -1,0 +1,57 @@
+'deltaSplineBins': 0.001
+
+# Step 1. specify all elements of the basis
+'elements': ['Au', 'Mg', 'O', 'Al']
+
+
+# Step 2. specify embeddings for all elements, using 'ALL' or elements name keywords
+'embeddings': {'ALL': {
+    'ndensity': 3,
+    'fs_parameters': [1, 1, 1, 0.5, 1, 1],
+    'npot': 'FinnisSinclairShiftedScaled',
+},
+
+}
+# Step 3. specify bonds for all elements, using 'ALL', UNARY, BINARY or elements pairs
+'bonds': {'ALL': {
+    'radbase': 'SBessel',
+    'radparameters': [5.25],
+    'rcut': 4,
+    'dcut': 0.01,
+    'NameOfCutoffFunction': 'cos',
+},
+}
+
+# Step 4. Specify BBasisFunctions list for each block using ALL, UNARY, BINARY, ..., QUINARY keywords
+'functions': {
+    'ALL': {
+        'nradmax_by_orders': [1, 1],
+        'lmax_by_orders': [0, 0, 0],
+#	    'number_of_functions_per_element': 1000,
+    },
+}
+
+'data': {
+    'data_path': '/home/utente/Documenti/for_github_new/ace_plus_q/examples/AuMgO.pckl.gzip',
+    'cutoff': 4,  # Cutoff for the neighborlist construction
+    'test_fraction': 0.1,  # 0 <= test_fraction < 1
+}
+
+'fit': {
+    'opt_params': {
+        "maxcor": 200,
+        "gtol": 1e-08,
+        "ftol": 0,
+        "maxls": 30,
+        "iprint": 0,
+        "maxfun": 700000,
+    },
+    'force_weight': 10,
+    'energy_weight': 1,
+    'L1_reg': 0,
+    'L2_reg': 1e-6,
+    'batch_size': 10,
+    'max_iter': 1500,
+    'save_interval': 25,
+}
+

@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ace_plus_q"
+description = "TensorFlow implementation of ACE + Q"
+readme = "README.md"
+requires-python = "<3.10"
+license = "MIT"
+license-files = ["LICENSE.md"]
+authors = [
+    { name = "Matteo Rinaldi", email = "mrinaldi@fhi-berlin.mpg.de" },
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]
+dependencies = [
+    "scipy",
+    "tensorflow",
+    "numpy",
+    "pandas",
+    "ase",
+    "ruamel.yaml",
+]
+dynamic = ["version"]
+
+[tool.setuptools.dynamic]
+version = {attr = "ace_plus_q.__version__"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["ace_plus_q", "ace_plus_q.*"]
+
+[project.scripts]
+ace_plus_q = "ace_plus_q.bin.run_ace_plus_q:main"
