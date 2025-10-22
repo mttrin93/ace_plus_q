@@ -1,0 +1,6 @@
+build/
+.idea/
+ace_plus_q.egg-info
+__pycache__/
+.pytest_cache
+saves/
